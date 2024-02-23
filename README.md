@@ -16,7 +16,7 @@
 
 `Feature` : 
 - Unlock with password.
-- Unlock with face recognition.
+- Unlock with facial recognition.
 - Send message to the owner when cannot recognite face more than 3 times or enter password incorrect more than 3 times.
 
 ### Schematic
